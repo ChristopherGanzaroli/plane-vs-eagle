@@ -1,0 +1,19 @@
+Listeners = lancer un event quand il se passe quelque chose de spéciale 
+Keycode = lancer une action quand il se passe quelque chose 
+
+
+Faire apparaitre GAME OVER :
+dans index.html :
+Créer un block HTML <h1> GAME OVER </h1>
+
+
+addEventLister
+
+mettre en ligne :dimanche 00h
+glitch.com
+
+Mise en ligne :drobox pour le code
+github deskop
+
+github.com
+
